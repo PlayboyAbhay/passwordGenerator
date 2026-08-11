@@ -34,7 +34,7 @@ git clone https://github.com/0xdarrt/python-monitor.git
 - [ ] GUI version
 
 ## 👨‍💻 Author
-Built by Harshit Shukla while learning Python backend development
+Built by Abhay Pratap Singh while learning Python backend development
 
 ## 📝 License
 MIT License - feel free to use for learning!
